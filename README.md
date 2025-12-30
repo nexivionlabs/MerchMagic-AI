@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/drive/1UZSfzu4nXUl7NmHU9t-QJw
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+
+/// Google AI Studio - Gemini 3 Pro Test 
+
+## TEST AMAÇLI COMMİT
